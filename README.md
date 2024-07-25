@@ -2,7 +2,7 @@ Hi, I'm Valdemar Baes Aaholst, @vald0506. I am studying sociology at University 
 
 I am using R as my primary workhorse, but I too use SQL, Python, JavaScript, HTML, and CSS.
 
-<h1>My socials:</h1>
+<h1>My Socials:</h1>
 
 - Twitter: <a href="https://twitter.com/vald0506">@vald0506</a>
 - Mastodon: <a rel="me" href="https://sciences.social/@aaholst">@aaholst<span>@</span>sciences.social</a>
