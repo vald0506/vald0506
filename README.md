@@ -1,6 +1,6 @@
 Hi, I'm Valdemar Baes Aaholst, @vald0506. I am studying sociology at University of Copenhagen and working at <a href="https://github.com/ogtal">@ogtal</a>. My interests revolve around digital behaviour, online communities, democracy, the interconnection between the digital and the analogue spheres, and social theory.
 
-I am using R as my primary workhorse, but I too use SQL, Python, JavaScript, HTML, and CSS.
+I am using R as my primary workhorse, but I too make use of SQL, Python, JavaScript, HTML, and CSS.
 
 <h1>My Socials:</h1>
 
